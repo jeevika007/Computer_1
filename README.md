@@ -26,7 +26,7 @@ Logisim (available at http://www.cburch.com/logisim/)
 ## Installation
 - Download Logisim from the official website.
 - Clone the repository
-- Open Logisim and load the project file (computer_1.circ).
+- Open Logisim and load the project file (computer_1.circ), first load all circ files then load the main.circ.
 
 ## Usage
 To run the simulation:
